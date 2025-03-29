@@ -1,0 +1,2 @@
+Adres MAC składa się z 6 oktetów, każdy po 8 bitów. Całkowicie ma 48 bitów, z czego pierwsze 24 bity są takie same dla danego producenta. Następne 24 są z kolei unikatowym identyfikatorem dla danego sprzętu i nie mogą się one nigdy powtórzyć. [Źródło](https://pl.wikipedia.org/wiki/Adres_MAC)
+![[MAC.svg]]
