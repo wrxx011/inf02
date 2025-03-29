@@ -1,0 +1,5 @@
+- [Anycast](https://pl.wikipedia.org/wiki/Anycast) - dane są wysyłane do topologicznie najbliższego urządzenia sieciowego
+- [Unicast](https://pl.wikipedia.org/wiki/Unicast) - dane są przesyłane tylko z jednego urządzenia do jednego urządzenia
+- [Multicast](https://pl.wikipedia.org/wiki/Multicast) - dane są wysyłane jednokrotnie do jednego bądź do wielu miejsc docelowych. Odbiorcy są widziani dla nadawcy jako pojedynczy grupowy odbiorca (_host group_) dostępny pod jednym adresem dla danej grupy multicastowej
+- [Broadcast](https://pl.wikipedia.org/wiki/Broadcast) - dane wysyłane na kanał rozgłoszeniowy. Każde urządzenie przyłączone do sieci powinno odebrać pakiet
+- [Geocast](https://pl.wikipedia.org/wiki/Geocast) - odmiana multicastu, odbiorcami są urządzenia w danej lokalizacji geograficznej

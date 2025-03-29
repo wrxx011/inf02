@@ -1,0 +1,12 @@
+- Adware
+- Liteware
+- GNU-GPL
+- OEM
+- MOLP
+- VLSC
+- BOX
+- Freeware
+- Shareware
+- Public Domain
+- Apache 2.0
+- MIT
