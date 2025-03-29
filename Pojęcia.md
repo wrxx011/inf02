@@ -1,0 +1,1 @@
+- Prefetching - wydanie rozkazu kiedy poprzedni się jeszcze nie zakończył. Ma to na celu poprawę wydajności
